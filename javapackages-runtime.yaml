@@ -1,0 +1,23 @@
+phases:
+  - p1
+dependencies:
+  runtime:
+    - platform-f32
+  build:
+    - platform-f32
+filter:
+  - gradle-local
+  - ivy-local
+  - javapackages-config-maven-3.6
+  - javapackages-generators
+  - javapackages-local
+  - maven-local
+  - maven-local-openjdk8
+  - python3-javapackages
+macros:
+  dist: .jp
+  _module_build: 1
+  _module_name: javapackages-runtime
+components:
+  p1:
+    javapackages-tools: fb35e9e68eca386af0b2a2455918490b2aab5ce6
