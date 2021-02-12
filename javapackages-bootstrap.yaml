@@ -22,7 +22,7 @@ macros:
 components:
   p1:
     byaccj: 9670f89119827a3afd732153e40a98e68635142a
-    javapackages-tools: fb35e9e68eca386af0b2a2455918490b2aab5ce6
+    javapackages-tools: b2af916baf34ff4a7d19b2cfd9167a79519418d9
   p2:
     javapackages-bootstrap: 3f045994daf7db1848bf1fef4e9010ab6278e7ae
   p3:

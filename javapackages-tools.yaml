@@ -25,7 +25,7 @@ components:
   p1:
     plexus-cipher: 134de31c0c46fe6842c734039e8e2131bd89fd35
     byaccj: 9670f89119827a3afd732153e40a98e68635142a
-    javapackages-tools: fb35e9e68eca386af0b2a2455918490b2aab5ce6
+    javapackages-tools: b2af916baf34ff4a7d19b2cfd9167a79519418d9
     xbean: 2a37621c4efd0c05805274e326b947499ca0fa27
     xmlunit: d6d2b054fc84a0e411870f0285c96fdc1d7d2704
     ant: 0cbb59ed4e0dcd62ee4fc00ba00389ac33c5802f

@@ -20,4 +20,4 @@ macros:
   _module_name: javapackages-runtime
 components:
   p1:
-    javapackages-tools: fb35e9e68eca386af0b2a2455918490b2aab5ce6
+    javapackages-tools: b2af916baf34ff4a7d19b2cfd9167a79519418d9
