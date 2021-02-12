@@ -15,7 +15,7 @@ filter:
   - maven-local-openjdk8
   - python3-javapackages
 macros:
-  dist: .jp
+  dist: .jpr
 components:
   p1:
     javapackages-tools: b2af916baf34ff4a7d19b2cfd9167a79519418d9
