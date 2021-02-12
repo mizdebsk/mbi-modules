@@ -1,0 +1,72 @@
+phases:
+  - p1
+  - p2
+  - p3
+  - p4
+  - p5
+dependencies:
+  runtime:
+    - platform-f32
+  build:
+    - platform-f32
+    - javapackages-tools
+filter:
+  - "[^/]*-javadoc"
+  - guava-testlib
+  - guice-assistedinject
+  - guice-bom
+  - guice-extensions
+  - guice-grapher
+  - guice-jmx
+  - guice-jndi
+  - guice-multibindings
+  - guice-parent
+  - guice-servlet
+  - guice-throwingproviders
+  - jul-to-slf4j
+  - plexus-containers
+  - plexus-containers-component-metadata
+  - plexus-containers-container-default
+  - slf4j-jcl
+  - slf4j-jdk14
+  - slf4j-manual
+  - slf4j-sources
+macros:
+  dist: .mm
+  _module_build: 1
+  _module_name: maven
+components:
+  p1:
+    plexus-cipher: 134de31c0c46fe6842c734039e8e2131bd89fd35
+    slf4j: 79fc72d534953fcb04cf880599b5d42fc741bb08
+    apache-commons-cli: 33695bf26728e1db6b810d51a57751d4883c665b
+    apache-commons-codec: 5732390ffff6fecf571038234e16678e97c0d209
+    apache-commons-io: 0865b01d98d236a0d771f06abb76dc155609af6f
+    apache-commons-lang3: 888738d97522fd7c9d73b7bd8a07ffc6341c54e8
+#    apache-commons-logging
+    atinject: cc83df56e00e8773a801bdb6ec7f4db091b0bdd3
+#    hawtjni
+    httpcomponents-core: 210a1c0d29c3d246d488fe1f730ce340b509acfa
+    jakarta-annotations: 3ecef52312c007cdb6a4248c8e959c9427f28192
+    jsoup: ff1edde4a9e9387810a2d3fd10e8fcaef9dfb742
+    jsr-305: dbe905a96c7175e444aeaf90f7260897783dee59
+    plexus-classworlds: d106ba8ee4161d2c30c10b996b50a73381159e97
+    plexus-containers: acd7116db56466d1b3977f7ca00eadb1ed8d3396
+    plexus-interpolation: b0c39f1527eeec551d6d58134a03207e2be729d6
+    plexus-utils: cbe003609d889abf009841b851bfc0e00a9e876c
+  p2:
+    guava: 2849fe3cb0cc60e7e551ff8668b86aed642edf25
+    cdi-api: d9d518a0bc6cf28b2553fd24c9d2c6dc59b5ce0d
+    httpcomponents-client: 0acbf4930edae19fa4a2ca7264fe2a8256145390
+#    jansi-native
+    maven-shared-utils: 54b85ac3442dbe67f864ae6689b9c6bb4becbb79
+    plexus-sec-dispatcher: 7f402dcbe8529a50aa18d10c5097453997177381
+  p3:
+    google-guice: 92c4d023c1e2ee4672b34c4cde74fdf4bab10e1a
+    jansi: 15fdc12ec62d6cd410c9a670138fdea8378cb2ba
+    maven-wagon: 5dd2c797d3eaffc919c4a4de2308c66e6705c8e7
+    sisu: edb4ad54b63ba3b50ed01f64ccff0e13e6160874
+  p4:
+    maven-resolver: 8df299fa8fcb36c8d7a3ad0539e62949b8fd586f
+  p5:
+    maven: 1d341a7bc4ac223e1627a2fbd50e188c64e72086
