@@ -27,7 +27,7 @@ components:
     javapackages-bootstrap: 3f045994daf7db1848bf1fef4e9010ab6278e7ae
   p3:
     maven-shared-utils: 54b85ac3442dbe67f864ae6689b9c6bb4becbb79
-    xbean: 614fba7205f8c670cdbd819a8cba22c6632f40ca
+    xbean: 2a37621c4efd0c05805274e326b947499ca0fa27
     xmlunit: d6d2b054fc84a0e411870f0285c96fdc1d7d2704
     maven: 1d341a7bc4ac223e1627a2fbd50e188c64e72086
     xmvn: 68b60310eb0205920b8fcf8ff2a9cde6f0eb9337
@@ -74,7 +74,7 @@ components:
     junit: d1002df10688196fca68bdc67ecf2ff38543ad2d
     junit5: e950e27b559b4a840489e0d6bca9ebf218015d70
     maven-antrun-plugin: 6bb38ed7d5d159d62ddd958a6e558a4372a11374
-    maven-archiver: c15ad839a644c5466b4dbabc5e87bd4b9b3ad31f
+    maven-archiver: 1d4de4449f0f40e6cc9296f450a29f263c2db048
     maven-artifact-transfer: f54d9f798a872b8eda457163551241454b6eeadc
     maven-assembly-plugin: 0306f77596e59c0920e06d53ed350dc7c827a8a1
     maven-common-artifact-filters: f0c0e52e0af7cae38cfef5d56fe74b0d3af7bdbe
@@ -110,7 +110,7 @@ components:
     osgi-annotation: 5a44086494618791efa9f970e413940cdf7518de
     osgi-compendium: 97e0e7c18dedb408dcdaeb74bd8b24e282534afb
     osgi-core: 1cbd2ed481e11bf7762282beaba78b970aa374d5
-    plexus-archiver: b1358898cd69b3aadc375995515607bb52ae160c
+    plexus-archiver: d282df0eb7f3f15849b4be073c5f04d5ac6ad76e
     plexus-build-api: 2ad3d367706238bc5487bbb6be86a8f9912195b9
     plexus-cipher: 134de31c0c46fe6842c734039e8e2131bd89fd35
     plexus-classworlds: d106ba8ee4161d2c30c10b996b50a73381159e97
@@ -119,8 +119,8 @@ components:
     plexus-containers: acd7116db56466d1b3977f7ca00eadb1ed8d3396
     plexus-interpolation: b0c39f1527eeec551d6d58134a03207e2be729d6
     plexus-io: 66355aeca2f4639a734fedaec0ef3bb1fc581547
-    plexus-languages: 11fb3c80bc1914422b23fc179b7c7fd1a8b685b5
-    plexus-pom: 7e7f2528f3a1c48107433aec60c7a7c4513f9ef5
+    plexus-languages: 7b3ec955361ac51199624721a863549ba977c060
+    plexus-pom: c9ab220024c0991328c2b57f9a64533e9af45dc0
     plexus-resources: d2f61067fadb05028095158ce45bb513da440296
     plexus-sec-dispatcher: 7f402dcbe8529a50aa18d10c5097453997177381
     plexus-utils: cbe003609d889abf009841b851bfc0e00a9e876c
@@ -130,6 +130,6 @@ components:
     slf4j: 79fc72d534953fcb04cf880599b5d42fc741bb08
     sonatype-oss-parent: 9ec81e7160c1c162bac2bec5eb440494f18c6ca9
     testng: c760b2e5ea2c49f9024b7cc2372f704def66e9bb
-    univocity-parsers: e252578a1692e62a6628c8b474647336cb3b58da
+    univocity-parsers: 3a7c7a0ae98b68f1059b6cb1f4d4182aa2e1e130
     velocity: 07a7640f658037c2a1f39816b0641bc495932b54
     xz-java: 246e9188de22a36dbb97e9751e8dbc0b2d373b5f

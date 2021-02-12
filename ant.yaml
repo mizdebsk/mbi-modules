@@ -36,7 +36,7 @@ components:
     jzlib: af37656a93c6bf45ff1d56659b42b714182f0690
     opentest4j: e46fc2ee954912dcf1d4aeca74567e327cd499f9
     regexp: 6be9f674e36e5453f59c3fa3822ea7114bf16dc5
-    univocity-parsers: e252578a1692e62a6628c8b474647336cb3b58da
+    univocity-parsers: 3a7c7a0ae98b68f1059b6cb1f4d4182aa2e1e130
     xml-commons-apis: 5a0d310491904458f3461c5669cc8156a7a13117
     xml-commons-resolver: 5ae1f4660595242fd67b5c32df61e05dd70b726d
     xz-java: 246e9188de22a36dbb97e9751e8dbc0b2d373b5f
