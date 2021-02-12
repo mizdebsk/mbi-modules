@@ -17,8 +17,6 @@ filter:
   - jdom-demo
 macros:
   dist: .mbi
-  _module_build: 1
-  _module_name: javapackages-bootstrap
 components:
   p1:
     byaccj: 9670f89119827a3afd732153e40a98e68635142a

@@ -14,8 +14,6 @@ filter:
   - "[^/]*-javadoc"
 macros:
   dist: .jp
-  _module_build: 1
-  _module_name: javapackages-tools
 components:
   p2:
     maven: 1d341a7bc4ac223e1627a2fbd50e188c64e72086

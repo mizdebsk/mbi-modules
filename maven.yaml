@@ -33,8 +33,6 @@ filter:
   - slf4j-sources
 macros:
   dist: .mm
-  _module_build: 1
-  _module_name: maven
 components:
   p1:
     plexus-cipher: 134de31c0c46fe6842c734039e8e2131bd89fd35

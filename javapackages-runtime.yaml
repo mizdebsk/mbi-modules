@@ -16,8 +16,6 @@ filter:
   - python3-javapackages
 macros:
   dist: .jp
-  _module_build: 1
-  _module_name: javapackages-runtime
 components:
   p1:
     javapackages-tools: b2af916baf34ff4a7d19b2cfd9167a79519418d9

@@ -21,8 +21,6 @@ filter:
   - "[^/]*-demo"
 macros:
   dist: .am
-  _module_build: 1
-  _module_name: ant
 components:
   p1:
     antlr: 7aa674e79a7de5e28944e6153531f1674128b7d2
