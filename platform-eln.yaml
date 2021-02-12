@@ -1,7 +1,6 @@
 repos:
   BaseOS: https://odcs.fedoraproject.org/composes/production/latest-Fedora-ELN/compose/BaseOS/x86_64/os/
   AppStream: https://odcs.fedoraproject.org/composes/production/latest-Fedora-ELN/compose/AppStream/x86_64/os/
-  CRB: https://odcs.fedoraproject.org/composes/production/latest-Fedora-ELN/compose/CRB/x86_64/os/
 packages:
  - shadow-utils
  - rpm-build
