@@ -6,10 +6,10 @@ phases:
   - p5
 dependencies:
   runtime:
-    - platform-f33
+    - platform-f34
     - javapackages-runtime
   build:
-    - platform-f33
+    - platform-f34
     - javapackages-tools
 filter:
   - ant-imageio

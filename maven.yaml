@@ -6,9 +6,9 @@ phases:
   - p5
 dependencies:
   runtime:
-    - platform-f33
+    - platform-f34
   build:
-    - platform-f33
+    - platform-f34
     - javapackages-tools
 filter:
   - "[^/]*-javadoc"

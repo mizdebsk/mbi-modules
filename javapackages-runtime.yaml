@@ -2,9 +2,9 @@ phases:
   - p1
 dependencies:
   runtime:
-    - platform-f33
+    - platform-f34
   build:
-    - platform-f33
+    - platform-f34
 filter:
   - gradle-local
   - ivy-local
