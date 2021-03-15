@@ -129,5 +129,5 @@ components:
     sonatype-oss-parent: 9ec81e7160c1c162bac2bec5eb440494f18c6ca9
     testng: c760b2e5ea2c49f9024b7cc2372f704def66e9bb
     univocity-parsers: 3a7c7a0ae98b68f1059b6cb1f4d4182aa2e1e130
-    velocity: 07a7640f658037c2a1f39816b0641bc495932b54
+    velocity: a22a8f84a4c2d0fa569d1ec57de7dce8ce32b9af
     xz-java: 246e9188de22a36dbb97e9751e8dbc0b2d373b5f
