@@ -34,7 +34,7 @@ components:
     apache-commons-compress: 45de21f4327f7b84bec828d30cec3b2474b74151
     apache-commons-io: 0865b01d98d236a0d771f06abb76dc155609af6f
     apache-commons-jxpath: 565f25d74a1c82e3de72d5d9d668a4617f03a878
-    apache-commons-lang3: 888738d97522fd7c9d73b7bd8a07ffc6341c54e8
+    apache-commons-lang3: 0d0e9dc490920589f773fe0759a468ebf3a6c65b
     apache-commons-logging: 56be9d095f55f130e8fdafeb82bfa8fc476f5e30
     apache-commons-parent: 8d2b6a1474abfbfd723d694faa78a672df6571a1
     apache-parent: 596441bbfeb1f6f21100496111359db5d7135e0b
@@ -67,7 +67,7 @@ components:
     jsoup: ff1edde4a9e9387810a2d3fd10e8fcaef9dfb742
     jsr-305: dbe905a96c7175e444aeaf90f7260897783dee59
     junit: d1002df10688196fca68bdc67ecf2ff38543ad2d
-    junit5: e950e27b559b4a840489e0d6bca9ebf218015d70
+    junit5: 84fd2700a52f8d1b365bd4ab209289ac5b096adb
     maven-antrun-plugin: 6bb38ed7d5d159d62ddd958a6e558a4372a11374
     maven-archiver: 1d4de4449f0f40e6cc9296f450a29f263c2db048
     maven-artifact-transfer: f54d9f798a872b8eda457163551241454b6eeadc
