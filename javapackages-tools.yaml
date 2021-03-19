@@ -12,6 +12,9 @@ filter:
   - ivy-local
   - gradle-local
   - "[^/]*-javadoc"
+  - "byaccj[^/]*"
+  - maven-plugin-tools-javadocs
+  - jdom-demo
 macros:
   dist: .jpt
 components:
