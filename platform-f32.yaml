@@ -22,3 +22,4 @@ packages:
  - publicsuffix-list
  - asciidoc
  - xmlto
+ - byaccj
