@@ -17,9 +17,10 @@ filter:
   - jdom-demo
 macros:
   dist: .jpb
+  _with_bootstrap: 1
 components:
   p1:
-    javapackages-tools: 7506bd2c660e87a264ef4a7ac94677972d6f91c7
+    javapackages-tools: 346e7ac38490d9f1ae63d5f6655704772becf3ce
   p2:
     javapackages-bootstrap: d8aea44ff42666b86c99c01eaecd5c9076ef8990
   p3:
@@ -57,7 +58,7 @@ components:
     jakarta-annotations: 79c46e4ce00793b970416b3c9f772abbde6f5af6
     jakarta-servlet: d0a1b96805a363b4801057fd88b698e29222f6b4
     jansi: af016b622fed36703a3f11b5341e3b9f570e08d4
-    java_cup: e08803bd63a2fb463d068ffd35e02a9a40e6138a
+    java_cup: ee6e4219cd19babff751f389b443c25e0b1c97a7
     jdom: 2843920d56506e8ae987d008ff51126e75cf8950
     jdom2: d29f52bb8f29db3759e7cfc58f5793d19211e931
     jflex: 2f0428509d1cf188017c6fa788683c2da075383d
