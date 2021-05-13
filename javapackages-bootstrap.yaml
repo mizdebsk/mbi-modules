@@ -51,10 +51,10 @@ components:
     fusesource-pom: 0fba459367b3245e345d2b4197877fe28c6af500
     google-guice: 38ab66c55c541313dd5ffcf2c24c602a9a45e684
     guava: 5865bf0885135c14a56817090480d4afcce1abbd
-    hamcrest: 1fc045102a3f1c273bb2ecc993a817b45fe4eff4
-    httpcomponents-client: 6b3dc34380b28cfd24ff087a1d963849b1657112
-    httpcomponents-core: bcaa3bcba007808f89a06ccc5e3e6dd75127a759
-    httpcomponents-project: c36ca13b95034c6d3dae491b1664dd9914c6ce63
+    hamcrest: 48727d644cf03af8031916c17b6951483a885746
+    httpcomponents-client: 4824aea37ebc78e33eae4f07683a08a1b9e3a9a1
+    httpcomponents-core: 56870966311b1b6d5720ca0635d1b7d14c0bca43
+    httpcomponents-project: 9f61fe1c71e7d095c09cb7284bd470eb46e05f47
     jakarta-annotations: 8e3277381b93b5793d1e531f6401fdfc95bcc471
     jakarta-servlet: 26928cd955ca2d560bd417cd47818b5a23ac6bf7
     jansi: 0b9d41f2cae5627019953a8ce5d9edfbbc2ba381
