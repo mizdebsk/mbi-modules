@@ -1,6 +1,5 @@
 repos:
-  Everything: https://ftp.icm.edu.pl/pub/Linux/dist/fedora/linux/development/34/Everything/x86_64/os/
-#  Everything: https://ftp.icm.edu.pl/pub/Linux/dist/fedora/linux/releases/34/Everything/x86_64/os/
+  Everything: https://ftp.icm.edu.pl/pub/Linux/dist/fedora/linux/releases/34/Everything/x86_64/os/
 packages:
  - shadow-utils
  - rpm-build
