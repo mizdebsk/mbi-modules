@@ -36,11 +36,11 @@ components:
     apache-commons-logging: a009e95854bef0a32bb3457ce8cf061dcd5e9591
     apache-commons-parent: 97acaaf9dc9bd370e47ad1a1b60fbbb9a3aabfdb
     apache-parent: 9ed7aeb2de1a38ea2f585c43049eaceec73c9f7c
-    apache-resource-bundles: fc5c34d1d5c3bf38b8a3b4a16075ce6aa6453699
-    apiguardian: 36c65568fc8a0231f2518907e60ff4b171758e0b
-    aqute-bnd: b7662dfe43f7a2e8f054b630ea2ff4038d92093d
-    assertj-core: 7b6e90554e91c2603a6b721149bf326320d3336f
-    atinject: 26e7f679d35f1d978e5819162f54786e6b538b35
+    apache-resource-bundles: f79fb9e44feda75ac698921e1e1606a4e2ba6a3e
+    apiguardian: 0a9d397fd88ccad4c0f35d0fa2ff83f19e0f5867
+    aqute-bnd: 64cb598e6802a236e90cc2a477fb33cb21c7e13c
+    assertj-core: 56bdee1780848c497c927844d0cad896faaef4c9
+    atinject: 34867d6666807a6d82341628973d2c654a8bec22
     beust-jcommander: 906c7312f65575aaa0950c64b53f9bcc17d7baea
     byte-buddy: 7aead37a380ca07e7468c882c710e95606542286
     cdi-api: 75cadd43f54fba7c80d5a68cb286c1fcbcd05665
