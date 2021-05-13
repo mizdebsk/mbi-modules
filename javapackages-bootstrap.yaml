@@ -41,17 +41,16 @@ components:
     aqute-bnd: ddb363ecb9c710f83dbf9f58ccdffea11bdcd097
     assertj-core: e08f480a304277d2ede8a0baabdffa530d577b59
     atinject: 84eb04fefa6bee8e53b8b9fdd648508f82c85df4
-    beust-jcommander: e2c54b3de919a45d33b7803fd0c1c02474ff6e10
-    byaccj: 9670f89119827a3afd732153e40a98e68635142a
-    byte-buddy: 4d36426dce3e0680da0b36dab3b881fd3fd73336
-    cdi-api: 60be7b251a5d60becfb3031eee1eb20ac01d1429
-    cglib: abd1b3aa914e166d759e9b3d9225be6ebbf6e182
-    easymock: 98162a0440f2f99a7bb062d9372523d3703b8738
-    felix-parent: 775eda9c4e1851d23de6495e2407ce05e9b38e64
-    felix-utils: b1438ae1533f4ffffb0869f663d8e099c1741a02
-    fusesource-pom: bd0a10abbfe893c64e699410fb92aa6727f66d59
-    google-guice: 22b31510bd89645b3ac60382d1508372f190afd5
-    guava: ba2c4a3cc94b50436595a7bf81498a68e06c4fa5
+    beust-jcommander: 304a689493e918bf7eb35fb9eb54215570314814
+    byte-buddy: 896d9e00895ac66b2bade8cfe9b1dd3ac0529fcf
+    cdi-api: 55c7a3c071ed5027ac95ba39c2603821614d0bfd
+    cglib: e430a200a8ac00682e1fc284281bcf2e1a4ea7ab
+    easymock: 4adaedb697349e7814b2b19c79fd74a1920349fb
+    felix-parent: bca8a8c3b4b2ad9223ffaf27a5ffe85117620163
+    felix-utils: f4a59ea2e4f8851143b498424c1120d1483700f0
+    fusesource-pom: 0fba459367b3245e345d2b4197877fe28c6af500
+    google-guice: 38ab66c55c541313dd5ffcf2c24c602a9a45e684
+    guava: 5865bf0885135c14a56817090480d4afcce1abbd
     hamcrest: 1fc045102a3f1c273bb2ecc993a817b45fe4eff4
     httpcomponents-client: 6b3dc34380b28cfd24ff087a1d963849b1657112
     httpcomponents-core: bcaa3bcba007808f89a06ccc5e3e6dd75127a759
