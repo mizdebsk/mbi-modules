@@ -25,16 +25,16 @@ components:
     javapackages-bootstrap: d8aea44ff42666b86c99c01eaecd5c9076ef8990
   p3:
     ant: 3579603f722afe8c1ea0c9c249605831ae69e487
-    apache-commons-beanutils: c78e7cb3fdc04ce2bcb8b58b90c932a65ef154a4
-    apache-commons-cli: f64eb123befe4512fbbef5e84d7407064eb2e562
-    apache-commons-codec: 077e5c2e369eb624c8da658f5bbe49c0213c49c2
-    apache-commons-collections: 03dd62ce7876cef60d50edb4078114b74e817eab
-    apache-commons-compress: 7f5162820c3e91faee939834e9bfeaec4716ffbc
-    apache-commons-io: 09df2ef06f9405fd0bfcbf21ccc3df545a31bf04
-    apache-commons-jxpath: 5767be9f45b43e635cd2fc452ed2fe7c45ef9bba
-    apache-commons-lang3: 34e3cb417e0cf368690f7e7e566e13f245bfe1bd
-    apache-commons-logging: 83869c8dab391dfb1c0c7fc1d701234d7ea6f5ad
-    apache-commons-parent: 148916688adc8bdf91f4de772d9c647d1810c46c
+    apache-commons-beanutils: c2bc17a7614e26a52359623415afd4def7e978ae
+    apache-commons-cli: 682dc073f1e52a16d747e5bf909829ed43c4ec63
+    apache-commons-codec: 34a0e830ec6eda00f786922e517f61414955f41b
+    apache-commons-collections: 4557dc83d686a22ca8acad89ce697dc398c0e99d
+    apache-commons-compress: aa724b4b88fe1832440c61cddb939bc838d65612
+    apache-commons-io: c445b05f88e96f4cf6a2af4baf4302b443af33b8
+    apache-commons-jxpath: 6d4c85fb1a58a9d5f7d7abf8e5bf8d32e228ad30
+    apache-commons-lang3: f3424b83f56021f5f8bed96f7f92e01f18b026e4
+    apache-commons-logging: a009e95854bef0a32bb3457ce8cf061dcd5e9591
+    apache-commons-parent: 97acaaf9dc9bd370e47ad1a1b60fbbb9a3aabfdb
     apache-parent: 9ed7aeb2de1a38ea2f585c43049eaceec73c9f7c
     apache-resource-bundles: fc5c34d1d5c3bf38b8a3b4a16075ce6aa6453699
     apiguardian: 36c65568fc8a0231f2518907e60ff4b171758e0b
