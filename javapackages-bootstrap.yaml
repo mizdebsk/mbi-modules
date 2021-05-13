@@ -50,7 +50,7 @@ components:
     felix-utils: f4a59ea2e4f8851143b498424c1120d1483700f0
     fusesource-pom: 0fba459367b3245e345d2b4197877fe28c6af500
     google-guice: 38ab66c55c541313dd5ffcf2c24c602a9a45e684
-    guava: 5865bf0885135c14a56817090480d4afcce1abbd
+    guava: b86dd3782d56737e6270029af09a62fadb381c7e
     hamcrest: 48727d644cf03af8031916c17b6951483a885746
     httpcomponents-client: 4824aea37ebc78e33eae4f07683a08a1b9e3a9a1
     httpcomponents-core: 56870966311b1b6d5720ca0635d1b7d14c0bca43
