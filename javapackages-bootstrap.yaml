@@ -35,7 +35,7 @@ components:
     apache-commons-lang3: 6b5c1b823e50fd4c430687bdcb7be90a6c1a5092
     apache-commons-logging: 039ad0eb84bdab89585d1e22a3c87970babadf32
     apache-commons-parent: ebad86f51d825fefcf418fdb88d6b7480d951885
-    apache-parent: 16ef6b1bcf27b7f353b4ea02d52602d9f61f336e
+    apache-parent: f15cd83da01598e5fb7c962bfc2c03907dbd8805
     apache-resource-bundles: 5b4e94d72eb225b6eeaf44e56182d749481477e3
     apiguardian: 50c84ee0efb9f350d8541392c55a80096a143e9c
     aqute-bnd: ddb363ecb9c710f83dbf9f58ccdffea11bdcd097
