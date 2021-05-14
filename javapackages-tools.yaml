@@ -100,7 +100,7 @@ components:
     modello: be212392d85c7bc0404d05706c8ba4f20b2f1645
     mojo-parent: 8e7954fd8850ff2bbfcd8210baa1f1ef80dba940
     munge-maven-plugin: f0db7db68ff46eaf0f94b184dbbcdd6dfdb96604
-    objectweb-asm: bab9f2cb3edbbbc94eef2a2079a1c08d618cfe3a
+    objectweb-asm: 97bf5ed7c45ed116e2480c474bad76de199956a4
     objenesis: 516ff3a421bbfab257ce9d2d0db41c1f7cdb0bcb
     opentest4j: 1a907d7daf9ac0ee0080765bbba9252af4dac5b0
     osgi-annotation: 9bc158deb894c181fd148055e2c0c3495c0407dc
