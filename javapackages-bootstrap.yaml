@@ -15,6 +15,7 @@ filter:
   - "byaccj[^/]*"
   - maven-plugin-tools-javadocs
   - jdom-demo
+  - junit5-guide
 macros:
   dist: .jpb
   _with_bootstrap: 1
