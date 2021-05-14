@@ -66,7 +66,7 @@ components:
     jsoup: 4c1acb9701c728c9a1d6784d49f9e88ed40ccb99
     jsr-305: b5c47c34bfd81d0229e8c64a3c6895ef97b6376c
     junit: c34b56db2899028dfdacafa4989f757a61358575
-    junit5: 994385ec720773c4bf7a023350f228b907491e37
+    junit5: ada49d03085670437729b23c54960acc4b679e07
     maven-antrun-plugin: b456318bc631beea9b7e1fbb69599327b0f2ff68
     maven-archiver: 386effae7d27479dda71088e72a2dd20989e3a6f
     maven-artifact-transfer: a44b12b802b185d2e0a443f58a2a808b49fdb0e5
