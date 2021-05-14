@@ -85,7 +85,7 @@ components:
     maven-plugin-bundle: b409988b227f026d9b4fc31d877489fc01d1520e
     maven-plugin-testing: 0de4b0ff23ab8d3ca3456f5fe98fb220ced0df8d
     maven-plugin-tools: b97c1f116b002e247be13d75f2e0035d293d3887
-    maven-remote-resources-plugin: da78ce96309f10766ade52b263c897ec690da22f
+    maven-remote-resources-plugin: 55f263790ad081b9bbad473c87d5cfca815456f3
     maven-resolver: 1361ca62dc2654516c08c4e115426b56ece914b5
     maven-resources-plugin: 3b8298e0875b88c51b2fd7f9812b9bb7de832be0
     maven-shared-incremental: efe807ec5c2f6dd145787b8997a5cd1448c9ddb1
@@ -93,7 +93,7 @@ components:
     maven-shared-utils: c0c5d1fb21425ca34fdadbee0bf12cc0d4d9c0e4
     maven-source-plugin: 8a5b1c426c6fdc05b01a8c6b6b9ff970bd0061fb
     maven-surefire: fe430c9ff1b5265064a3c0d4ccee559c227bb445
-    maven-verifier: c875d0cd03bbf6e0e7e4700612238c103f2f88f5
+#    maven-verifier: c875d0cd03bbf6e0e7e4700612238c103f2f88f5
     maven-wagon: 5d2b6008c3da173c3c8c5bd59c4a01a99fa299ba
     mockito: 92069c92d5224c5459898f31b2086a86833a2bb7
     modello: be212392d85c7bc0404d05706c8ba4f20b2f1645
