@@ -77,7 +77,7 @@ components:
     maven-dependency-analyzer: de63085dc4780add06fc5d8614c38f3b6dcdea67
     maven-dependency-plugin: 7c0e778680f50419add6845731450bee8eb99889
     maven-dependency-tree: 0bac94e4f90842050fd6e590b5adaeb212499ca8
-    maven-enforcer: b6e5bd2d3b8114b1795c508af56fd662ae6292f8
+    maven-enforcer: c169391f7d2f4de1be1dae9176ae2e567320d60d
     maven-file-management: c8cd8c605fbb1b6bb7d14e7a94cab04727567dbb
     maven-filtering: d00d3d6291923116cc0632a6672c0a68a239e3fc
     maven-jar-plugin: d9a4a23b6f09de2fcd4712d892d4f84392deaa46
