@@ -105,20 +105,20 @@ components:
     osgi-annotation: 9bc158deb894c181fd148055e2c0c3495c0407dc
     osgi-compendium: 66e937982d4ec4a4db2cf5af924ca09f2a9ce78e
     osgi-core: c040c6916aebf61ea8cdc580fd46b34bffa8bf11
-    plexus-archiver: d1b59177d863bf362d4c4bfd5189d6a6679c4a19
-    plexus-build-api: 596d222884245a4003f0b5e8dd74242426ea0266
-    plexus-cipher: 61af67f80db923ad455f4b6ee29eaed67b8c1f10
-    plexus-classworlds: 4682f138ac8da70fabd160b7d303ac168444489b
-    plexus-compiler: b757100c695a17a4945ead27fa79e91958ac6ec4
-    plexus-components-pom: 31c03efafa0276a0991a6bae77e7155c4efdd4a0
-    plexus-containers: b4ebf0f487b4f7bc2078107485ed6a57e4eee6e5
-    plexus-interpolation: 5ee12347f70da3f8af87e05bdacfd4803d4588ab
-    plexus-io: 7a32053470335ff9dd247bcdcddfcf2a16cb8d9e
-    plexus-languages: 997a62399b9a40bf516c0ea1226404ff7c001332
-    plexus-pom: 88a0d5e2f1bb220fd2d7e24939fd65dd695ecde3
-    plexus-resources: dfd582d564fd50ace17ea9d94dcc12bd42ee50c3
-    plexus-sec-dispatcher: 73d09e8d60d3cbd846ea79c141b4f6d72ba5c747
-    plexus-utils: 73370336f68b75894a7aae1e8ac999bd3126ade9
+    plexus-archiver: 42657f4cbcc8f8f6a73f04eb24c436ac97a05ccb
+    plexus-build-api: 5db41cfc1f25cf1674de3c62343d0d970d3f9a50
+    plexus-cipher: a2b854481944affc35648cde04caa45cdbf349d6
+    plexus-classworlds: 846ea99ed2bd38870dda2616e6679b4921792081
+    plexus-compiler: 8c94c923dd02837a26797ae68fb3c249a99f1643
+    plexus-components-pom: aacbe6f3fadcc0ea4477c905712346a6ca447b9a
+    plexus-containers: 9a2bdcbc448168a397f4688586b0dbe285bbe302
+    plexus-interpolation: 04ed7bb5db7c7e86c4fa3cb8c4e7e2f2adbbdeea
+    plexus-io: d72aaa1756d3b01ca34b29b6c621535347fe8a43
+    plexus-languages: b2c0eb68d3ba8be98bfdae1ddc2290f8f72a0664
+    plexus-pom: 320a218cecb9192497eb670e1d7757b2a697d8fd
+    plexus-resources: f29cb34e3d52b6b7f489e93e7ef65196ccef1aa7
+    plexus-sec-dispatcher: 2a7556cc929f8f72f2b0d45ad7657b07f3bc2e5c
+    plexus-utils: 358c40c7d9dc86d2902f87c3cbf2437370b208f2
     qdox: bad386b93c101b3d8a1658aa4914aca385bc2832
     sisu: 7bc9c9a52b3853e4f3ec339d4797e17ebb1d7cbb
     sisu-mojos: fd660e3999048b95054749ff4f0aa8bd58c8781e
