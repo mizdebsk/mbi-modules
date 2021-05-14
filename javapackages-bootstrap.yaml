@@ -66,35 +66,35 @@ components:
     jsr-305: b5c47c34bfd81d0229e8c64a3c6895ef97b6376c
     junit: c34b56db2899028dfdacafa4989f757a61358575
     junit5: 994385ec720773c4bf7a023350f228b907491e37
-    maven: 9043f4c7540d13391ffe8b963f021bab323a59bf
-    maven-antrun-plugin: 6abe910fe3c4596b3af568403b2272841d4957fb
-    maven-archiver: 4a27daf4bc9aca7ae3b86a6e4b7f64a778ad5310
-    maven-artifact-transfer: 60b77bbf6771724b7eb242f2908a8d73d5e10312
-    maven-assembly-plugin: d9227a7cb916ae82615e1a79e558be5a3861efff
+    maven: 3fbe2d431383f0e119558c0fd01d0c76c6e19c99
+    maven-antrun-plugin: b456318bc631beea9b7e1fbb69599327b0f2ff68
+    maven-archiver: 386effae7d27479dda71088e72a2dd20989e3a6f
+    maven-artifact-transfer: a44b12b802b185d2e0a443f58a2a808b49fdb0e5
+    maven-assembly-plugin: d0ec89de3ee677072593e105ee9cf5edc2464cae
     maven-common-artifact-filters: 7269e015b3cc0fadb270d33ff8de8c5623cb1935
-    maven-compiler-plugin: 66245e8b792bf121188e22a0d1173ce39b77cb1b
-    maven-dependency-analyzer: 4c8666161089251197d2c8cee75671e65d492652
-    maven-dependency-plugin: a6abd8e475f334a78c8beb54f3be2a17ba642caa
-    maven-dependency-tree: 8fdc59e22ebe45fbfcc1664c019e2ebcf7b0c82e
+    maven-compiler-plugin: 5e331c99ddda422e9df0b028689708c049a090be
+    maven-dependency-analyzer: de63085dc4780add06fc5d8614c38f3b6dcdea67
+    maven-dependency-plugin: 7c0e778680f50419add6845731450bee8eb99889
+    maven-dependency-tree: 0bac94e4f90842050fd6e590b5adaeb212499ca8
     maven-enforcer: b6e5bd2d3b8114b1795c508af56fd662ae6292f8
-    maven-file-management: ac65b0434ce7ccb74f4eac517163a79777101a74
-    maven-filtering: 874f474196ec0ca2eb6f8389182dbc2ac3105201
-    maven-jar-plugin: c8f1910f3f51efcfa7b2fdc2da34724de9ee8f5a
-    maven-parent: 3d4901b74eca4f6766861a76de0df848435ddb9d
-    maven-plugin-build-helper: fd3006cb4210cbc488dc6089d4c2e48cd8347925
-    maven-plugin-bundle: 6267e05cc79e33fc9bf872449553cbe77b09f231
-    maven-plugin-testing: 96ae0cfceab9fe0d1e760a34ddb776bf1e803e28
-    maven-plugin-tools: 67f8506bfeb406798dea091fb2125ce19d307f1b
-    maven-remote-resources-plugin: b0b8d41ce1d7c157882ee754a81c6233d9563b13
-    maven-resolver: 7beea8a6a847e8e5becb1c4654a1232b8cfb9858
-    maven-resources-plugin: 8dff2c14b3935bad94bc3edbf375fdc5b745b67c
-    maven-shared-incremental: f69b00ff055ba57208d88ddf507e1eb38f1bb32e
-    maven-shared-io: 834b85cbc19f3200dfae34be5ffdfa5a9295b761
-    maven-shared-utils: 6b819fcc2809e52a6298d881f093adb249b486a5
-    maven-source-plugin: 6e2580654f3907ddf404925004481d879fe67ff8
+    maven-file-management: c8cd8c605fbb1b6bb7d14e7a94cab04727567dbb
+    maven-filtering: d00d3d6291923116cc0632a6672c0a68a239e3fc
+    maven-jar-plugin: d9a4a23b6f09de2fcd4712d892d4f84392deaa46
+    maven-parent: cdd9c0eda39187bcb32ae0726358ef9849ef213e
+    maven-plugin-build-helper: bbfc557f89fc9aada721226e89694d8ff6fd4e69
+    maven-plugin-bundle: b409988b227f026d9b4fc31d877489fc01d1520e
+    maven-plugin-testing: 0de4b0ff23ab8d3ca3456f5fe98fb220ced0df8d
+    maven-plugin-tools: b97c1f116b002e247be13d75f2e0035d293d3887
+    maven-remote-resources-plugin: da78ce96309f10766ade52b263c897ec690da22f
+    maven-resolver: 1361ca62dc2654516c08c4e115426b56ece914b5
+    maven-resources-plugin: 3b8298e0875b88c51b2fd7f9812b9bb7de832be0
+    maven-shared-incremental: efe807ec5c2f6dd145787b8997a5cd1448c9ddb1
+    maven-shared-io: 3a257efc2e3a57f84ba37f2e47a6d3612eaea047
+    maven-shared-utils: c0c5d1fb21425ca34fdadbee0bf12cc0d4d9c0e4
+    maven-source-plugin: 8a5b1c426c6fdc05b01a8c6b6b9ff970bd0061fb
     maven-surefire: fe430c9ff1b5265064a3c0d4ccee559c227bb445
     maven-verifier: c875d0cd03bbf6e0e7e4700612238c103f2f88f5
-    maven-wagon: 34aa231792304f00ca286dc5af95e517d4b330d2
+    maven-wagon: 5d2b6008c3da173c3c8c5bd59c4a01a99fa299ba
     mockito: a92c6e9387fa65068206a2a117d2943ffd298df1
     modello: e8ccf7a4f45ba489dcd89dd876ced10b11b8441d
     mojo-parent: b50e3eed4e0bc46b5a79cbf494de6137f469aa19
