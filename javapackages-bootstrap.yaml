@@ -4,9 +4,9 @@ phases:
   - p3
 dependencies:
   runtime:
-    - platform-f34
+    - platform-f35
   build:
-    - platform-f34
+    - platform-f35
 filter:
   - ivy-local
   - gradle-local
