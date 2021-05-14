@@ -23,3 +23,6 @@ packages:
  - asciidoc
  - xmlto
  - byaccj
+# soft deps that break repoclosure
+ - annobin-plugin-clang
+ - llvm
