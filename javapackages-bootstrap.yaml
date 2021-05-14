@@ -95,16 +95,16 @@ components:
     maven-surefire: fe430c9ff1b5265064a3c0d4ccee559c227bb445
     maven-verifier: c875d0cd03bbf6e0e7e4700612238c103f2f88f5
     maven-wagon: 5d2b6008c3da173c3c8c5bd59c4a01a99fa299ba
-    mockito: a92c6e9387fa65068206a2a117d2943ffd298df1
-    modello: e8ccf7a4f45ba489dcd89dd876ced10b11b8441d
-    mojo-parent: b50e3eed4e0bc46b5a79cbf494de6137f469aa19
-    munge-maven-plugin: 274642595335905fad7df2ef2745d16353af0869
+    mockito: 92069c92d5224c5459898f31b2086a86833a2bb7
+    modello: be212392d85c7bc0404d05706c8ba4f20b2f1645
+    mojo-parent: 8e7954fd8850ff2bbfcd8210baa1f1ef80dba940
+    munge-maven-plugin: b0ba63574e4c90c89ce1fb2f17f83fa9118a98ba
     objectweb-asm: bab9f2cb3edbbbc94eef2a2079a1c08d618cfe3a
-    objenesis: f87d865a72fb682374e522023907aea9558b99f5
-    opentest4j: bd63493eaba96db91a1a3d0b55ae1f7019de9e75
-    osgi-annotation: 351b883c2e7ce3705083d8e980d549a4fb20b338
-    osgi-compendium: 408b796a1f7a28620f11c9292da094c6767203a3
-    osgi-core: 1e20715325e4039f2611a6d7df520f28939ce56a
+    objenesis: 516ff3a421bbfab257ce9d2d0db41c1f7cdb0bcb
+    opentest4j: 1a907d7daf9ac0ee0080765bbba9252af4dac5b0
+    osgi-annotation: 9bc158deb894c181fd148055e2c0c3495c0407dc
+    osgi-compendium: 66e937982d4ec4a4db2cf5af924ca09f2a9ce78e
+    osgi-core: c040c6916aebf61ea8cdc580fd46b34bffa8bf11
     plexus-archiver: d1b59177d863bf362d4c4bfd5189d6a6679c4a19
     plexus-build-api: 596d222884245a4003f0b5e8dd74242426ea0266
     plexus-cipher: 61af67f80db923ad455f4b6ee29eaed67b8c1f10
