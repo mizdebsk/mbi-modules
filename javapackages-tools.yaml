@@ -2,6 +2,7 @@ phases:
   - p1
   - p2
   - p3
+  - p4
 dependencies:
   runtime:
     - platform-f35
@@ -19,13 +20,14 @@ filter:
   - junit5-guide
 macros:
   dist: .jpt
-  _without_bootstrap: 1
 components:
-  p2:
-    maven: 3fbe2d431383f0e119558c0fd01d0c76c6e19c99
-  p3:
-    xmvn: cdac3bf91306bc47a2a570f0dad7e973002a3097
   p1:
+    javapackages-tools: 6dcde6aa115c0cea1ed3a2bff4f9c510fd5ee4a0
+  p3:
+    maven: 3fbe2d431383f0e119558c0fd01d0c76c6e19c99
+  p4:
+    xmvn: cdac3bf91306bc47a2a570f0dad7e973002a3097
+  p2:
 #    ant: c9ae62152d18942a8131bc5d3915448764f80e87
     apache-commons-beanutils: 31ea8a4dcdf8f8fcc681e2079c15d14a024add5e
     apache-commons-cli: 765f69e2732c4b0b7aaa5c0c6e935964f308f8d9
