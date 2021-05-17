@@ -21,7 +21,7 @@ macros:
   _with_bootstrap: 1
 components:
   p1:
-    javapackages-tools: 346e7ac38490d9f1ae63d5f6655704772becf3ce
+    javapackages-tools: 6dcde6aa115c0cea1ed3a2bff4f9c510fd5ee4a0
   p2:
     javapackages-bootstrap: d8aea44ff42666b86c99c01eaecd5c9076ef8990
   p3:
