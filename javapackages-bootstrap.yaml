@@ -93,7 +93,7 @@ components:
     maven-shared-io: 3a257efc2e3a57f84ba37f2e47a6d3612eaea047
     maven-shared-utils: c0c5d1fb21425ca34fdadbee0bf12cc0d4d9c0e4
     maven-source-plugin: 8a5b1c426c6fdc05b01a8c6b6b9ff970bd0061fb
-    maven-surefire: fe430c9ff1b5265064a3c0d4ccee559c227bb445
+    maven-surefire: a8af719ee449d6f9e6f4e4dee8d61fbe2ac5f4cc
 #    maven-verifier: c875d0cd03bbf6e0e7e4700612238c103f2f88f5
     maven-wagon: 5d2b6008c3da173c3c8c5bd59c4a01a99fa299ba
     mockito: 92069c92d5224c5459898f31b2086a86833a2bb7
