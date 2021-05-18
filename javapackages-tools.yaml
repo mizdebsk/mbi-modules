@@ -23,8 +23,7 @@ filter:
   - maven-plugin-tools-javadocs
   - jdom-demo
   - junit5-guide
-macros:
-  dist: .jpt
+macros: {}
 components:
 #  p101:
 #    antlr: 7aa674e79a7de5e28944e6153531f1674128b7d2

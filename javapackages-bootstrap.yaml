@@ -16,7 +16,6 @@ filter:
   - jdom-demo
   - junit5-guide
 macros:
-  dist: .jpb
   _with_bootstrap: 1
 components:
   p1:
