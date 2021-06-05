@@ -47,11 +47,11 @@ components:
 #  p105:
 #    ant: 1606585cd3c92d92c974f7b8707f2e1371cde5c6
   p1:
-    javapackages-tools: 96d321bd99660d6b9c3f51ecf3d75090365e1f2f
+    javapackages-tools: 42d151c2f23b67f53a05c7ee47c402c48e863ea8
   p3:
     maven: 645f5f2511071966a4b4dcf120e55edd79e7cebb
   p4:
-    xmvn: 678371c270d9d58e12db51a316877b8ef325a780
+    xmvn: 9901c2681dde535fbea87a9a71e619405aeb2590
   p2:
     apache-commons-beanutils: 22cb45e8daa7ab3ba76f09aa0a5783c488e0586a
     apache-commons-cli: 7f585ef4fd20ab4390cb15ffb775842c213ab486
@@ -79,12 +79,12 @@ components:
     fusesource-pom: b8baa84c24b5337f1fc66e8b98e71d8087984f3f
     google-guice: a5fb7688394313ab705d08c1e1034f905a2a9ed4
     guava: 84e077254926cd00978c91caa29ca756dbd9e2d9
-    hamcrest: 0b620cde2cafa26b9ed019cacff8b73c542eba96
+    hamcrest: d33abbf056ef9d692fef209fb1698e12436321f4
     httpcomponents-client: f67b1b4d355dbcbdf6f5a299fe8c221b25c8550b
     httpcomponents-core: c1115052601dc92908a4cda10e99aa311ead5023
     httpcomponents-project: bdc81afee0a46f4a108836c7aaf521ec0ab3aacd
-    jakarta-annotations: 7ebc6833a9a0c0f6a0ab40dfe362c9c5d0fefae6
-    jakarta-servlet: c2011b8377dc71e035653ca1e5cfaefe2a21f81d
+    jakarta-annotations: a950994925464dde055a02a6f4c494b2c0ecc68f
+    jakarta-servlet: d85e18ebd12f6943f42adf43eb1991ebb8c744e8
     jansi: 3a3016f5823c3efa0296107616ab9be62aa7e0c7
     java_cup: 6d677063299ca486c4630c6ba2a91fedd2b5bd8c
     jdom: 63d64bdc138a98a7af2a6751e6e70a98f1d336e2
@@ -113,7 +113,7 @@ components:
     maven-plugin-testing: 6a94ef12c5d38c5515bc24a555e369af5beda55b
     maven-plugin-tools: 30e2808d9b0f139f0a8edca51c78285ca7dae42d
     maven-remote-resources-plugin: 7d1ed24bc267f91ad158905fbe6e11fcf55e8a8e
-    maven-resolver: dbb7d898d54093667761195dfd3319a663732d72
+    maven-resolver: f3163ecffec960992a41c3aeb8a8433f9f37ac9e
     maven-resources-plugin: 857b30562f5f69bb4b4b0b991048d254987da6dd
     maven-shared-incremental: 9b376a5b7d46ce35426848fe14245a1958f81732
     maven-shared-io: 646aea1e382ee6bedc47544fa7fe70a1964c7603
@@ -121,7 +121,7 @@ components:
     maven-source-plugin: 700ea13ccb1b06d9b855dcfcb2a1ffee06ed1eaa
     maven-surefire: c1e6b5587b82a1244d83e567780d3d68f2af5b84
 #    maven-verifier: c875d0cd03bbf6e0e7e4700612238c103f2f88f5
-    maven-wagon: 233facf320db2c15abcf540f387e87b35580622a
+    maven-wagon: 4cf73dadeceda908eb23ba71bf02ff5428f3f7cd
     mockito: 4824a755bda1f58c5e276387ec5b7325c039a564
     modello: ca196e7386d9553704bef84fc0c54bdfda3365a1
     mojo-parent: b8f932864518971373aecb0a9d842c22af3e22c0
@@ -147,7 +147,7 @@ components:
     plexus-sec-dispatcher: 63bc00832adc440bca3deb20a06fd7739bdb01ce
     plexus-utils: 67c4505bc1638531148bb4190aa8bb109afd6503
     qdox: d9ae3a684dc7d4eb5858fe1d380db83f64b34b53
-    sisu: e9453396eb199f3233bf6b7eb2a87e5134ed3e7c
+    sisu: d13da585d0ceb29c62c47f8a92254e5b31a37d1a
     sisu-mojos: fe2c5a0a0be80c5986f98763cd7489c1163b12bf
     slf4j: d76423e1c90e5d7e77973f34c5d5caa018bf92a0
     testng: fe43d5be97542b29753dbc8f93aa483dac11e60a
