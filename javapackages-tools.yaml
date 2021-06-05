@@ -16,14 +16,13 @@ dependencies:
     - platform-f35
     - javapackages-bootstrap
 filter:
-  - ivy-local
-  - gradle-local
   - "[^/]*-javadoc"
   - "byaccj[^/]*"
   - maven-plugin-tools-javadocs
   - jdom-demo
   - junit5-guide
-macros: {}
+macros:
+  _without_ivy: 1
 components:
 #  p101:
 #    antlr: 7aa674e79a7de5e28944e6153531f1674128b7d2
@@ -47,11 +46,11 @@ components:
 #  p105:
 #    ant: 1606585cd3c92d92c974f7b8707f2e1371cde5c6
   p1:
-    javapackages-tools: 42d151c2f23b67f53a05c7ee47c402c48e863ea8
+    javapackages-tools: b88118db6b10d38d5fe7b530226cb731f691003b
   p3:
     maven: 645f5f2511071966a4b4dcf120e55edd79e7cebb
   p4:
-    xmvn: 9901c2681dde535fbea87a9a71e619405aeb2590
+    xmvn: 2a12a7da5adf534733fd777fe11369f230972338
   p2:
     apache-commons-beanutils: 22cb45e8daa7ab3ba76f09aa0a5783c488e0586a
     apache-commons-cli: 7f585ef4fd20ab4390cb15ffb775842c213ab486

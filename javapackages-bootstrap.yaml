@@ -8,8 +8,6 @@ dependencies:
   build:
     - platform-f35
 filter:
-  - ivy-local
-  - gradle-local
   - "[^/]*-javadoc"
   - "byaccj[^/]*"
   - maven-plugin-tools-javadocs
@@ -17,9 +15,10 @@ filter:
   - junit5-guide
 macros:
   _with_bootstrap: 1
+  _without_ivy: 1
 components:
   p1:
-    javapackages-tools: 42d151c2f23b67f53a05c7ee47c402c48e863ea8
+    javapackages-tools: b88118db6b10d38d5fe7b530226cb731f691003b
   p2:
     javapackages-bootstrap: 31f81a4418047b2e5ea9483b590e405f0ce76233
   p3:
@@ -127,5 +126,5 @@ components:
     velocity: 4d40591ef8762aba9ba08e2df4c5aa2ca53171c6
     xbean: 2d44ede507e4d14c2e8cdd662d9c70a315841541
     xmlunit: f03c3b679a469ed62c7e55f91a251f304be9cce7
-    xmvn: 9901c2681dde535fbea87a9a71e619405aeb2590
+    xmvn: 2a12a7da5adf534733fd777fe11369f230972338
     xz-java: 330d7dfa86fa3619a357cd6dcbe45ad58ae50cc2
