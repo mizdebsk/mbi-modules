@@ -14,6 +14,7 @@ filter:
   - jdom-demo
   - junit5-guide
 macros:
+  __bootstrap: ~bootstrap
   _with_bootstrap: 1
   _without_ivy: 1
 components:
@@ -22,7 +23,7 @@ components:
   p2:
     javapackages-bootstrap: 31f81a4418047b2e5ea9483b590e405f0ce76233
   p3:
-    ant: 1606585cd3c92d92c974f7b8707f2e1371cde5c6
+    ant: 4623572b38694427e3287a883101ba6fcd78f2d7
     apache-commons-beanutils: 22cb45e8daa7ab3ba76f09aa0a5783c488e0586a
     apache-commons-cli: 7f585ef4fd20ab4390cb15ffb775842c213ab486
     apache-commons-codec: ce8a5e2d5f1b237eb3694016d22308ae1220b0ce
@@ -55,7 +56,7 @@ components:
     httpcomponents-project: bdc81afee0a46f4a108836c7aaf521ec0ab3aacd
     jakarta-annotations: a950994925464dde055a02a6f4c494b2c0ecc68f
     jakarta-servlet: d85e18ebd12f6943f42adf43eb1991ebb8c744e8
-    jansi: 3a3016f5823c3efa0296107616ab9be62aa7e0c7
+    jansi: 3923fa75788679ded7eb8ad65e19bb1a83109470
     java_cup: 6d677063299ca486c4630c6ba2a91fedd2b5bd8c
     jdom: 63d64bdc138a98a7af2a6751e6e70a98f1d336e2
     jdom2: 81b422c38217aed78ca83a487b3ab5155dc9ba0c
@@ -124,7 +125,7 @@ components:
     testng: fe43d5be97542b29753dbc8f93aa483dac11e60a
     univocity-parsers: acc8a4813396d3480e6e10b97ca0b26730d6cef8
     velocity: 4d40591ef8762aba9ba08e2df4c5aa2ca53171c6
-    xbean: 2d44ede507e4d14c2e8cdd662d9c70a315841541
-    xmlunit: f03c3b679a469ed62c7e55f91a251f304be9cce7
+    xbean: 751c090809560b932f5a3afa07c4620e60af3a4b
+    xmlunit: 6ce92243cac7f9ffa310c470d2920787d7bb69ed
     xmvn: 2a12a7da5adf534733fd777fe11369f230972338
     xz-java: 330d7dfa86fa3619a357cd6dcbe45ad58ae50cc2
