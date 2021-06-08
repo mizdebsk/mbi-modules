@@ -1,0 +1,25 @@
+repos:
+  c9s-build: https://kojihub.stream.centos.org/kojifiles/repos/c9s-build/latest/x86_64/
+packages:
+ - shadow-utils
+ - rpm-build
+ - glibc-minimal-langpack
+ - which
+ - gcc
+ - gcc-c++
+ - make
+ - java-11-openjdk-devel
+ - java-1.8.0-openjdk-devel
+ - bash
+ - coreutils
+ - findutils
+ - python3-devel
+ - python3-lxml
+ - python3-pytest
+ - python3-pytest-cov
+ - python3-setuptools
+ - procps-ng
+ - publicsuffix-list
+ - asciidoc
+ - xmlto
+ - byaccj
