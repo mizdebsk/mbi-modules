@@ -4,9 +4,9 @@ phases:
   - p3
 dependencies:
   runtime:
-    - platform-f35
+    - platform-el9
   build:
-    - platform-f35
+    - platform-el9
 filter:
   - "[^/]*-javadoc"
   - "byaccj[^/]*"

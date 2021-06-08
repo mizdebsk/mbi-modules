@@ -10,10 +10,10 @@ phases:
 #  - p105
 dependencies:
   runtime:
-    - platform-f35
+    - platform-el9
     - javapackages-bootstrap
   build:
-    - platform-f35
+    - platform-el9
     - javapackages-bootstrap
 filter:
   - "[^/]*-javadoc"
