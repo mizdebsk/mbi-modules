@@ -51,7 +51,7 @@ components:
     google-guice: e3ac55b4d833ae45c67b5ae023e9e3b4ff2528e0
     guava: 531360b678b4fff12f66a162353258452ef1a825
     hamcrest: d014543c36d48d9a91212618835f2ffd915575f7
-    httpcomponents-client: 90ed026422a07e85fad51332c14495bf1fc057c8
+    httpcomponents-client: c5b9b6310dc2507e0039fc5b8ed8073b56edaef0
     httpcomponents-core: 5ba97100d7dffb07b58a90d4da6ebff34120f54b
     httpcomponents-project: 5e3bca1b3f6041f1ef8be18f07e41983510d1038
     jakarta-annotations: 9c22ca00706b0f3c75b2cadd67af8a8665386a0c
