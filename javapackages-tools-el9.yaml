@@ -11,18 +11,17 @@ phases:
 dependencies:
   runtime:
     - platform-el9
-    - javapackages-bootstrap
+    - javapackages-bootstrap-el9
   build:
     - platform-el9
-    - javapackages-bootstrap
+    - javapackages-bootstrap-el9
 filter:
   - "[^/]*-javadoc"
   - "byaccj[^/]*"
   - maven-plugin-tools-javadocs
   - jdom-demo
   - junit5-guide
-macros:
-  _without_ivy: 1
+macros: {}
 components:
 #  p101:
 #    antlr: 7aa674e79a7de5e28944e6153531f1674128b7d2

@@ -16,7 +16,6 @@ filter:
 macros:
   __bootstrap: ~bootstrap
   _with_bootstrap: 1
-  _without_ivy: 1
 components:
   p1:
     javapackages-tools: a22e49a954ef11bd82bef173e5e43926fca97ddf
