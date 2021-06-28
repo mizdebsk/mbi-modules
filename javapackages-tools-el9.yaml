@@ -3,11 +3,11 @@ phases:
   - p2
   - p3
   - p4
-#  - p101
-#  - p102
-#  - p103
-#  - p104
-#  - p105
+  - p101
+  - p102
+  - p103
+  - p104
+  - p105
 dependencies:
   runtime:
     - platform-el9
@@ -21,29 +21,30 @@ filter:
   - maven-plugin-tools-javadocs
   - jdom-demo
   - junit5-guide
+  - jsoup
 macros: {}
 components:
-#  p101:
-#    antlr: 7aa674e79a7de5e28944e6153531f1674128b7d2
-#    apache-commons-net: 65b11a63e9ec526711a658fa81af61c99853e3e6
-#    bcel: 07a57a91c796bb81166ccea8a218a70163939e3c
-#    jakarta-oro: 59de9a9d3bd59b1a6ff140832b04e6d6dae07397
-#    javamail: 410c96ceb92c34a34989d88255097df92ef23527
-#    jdepend: ab16eb62ec2e9d4afd2e0ce8ee47c1e20e1297ef
-#    jzlib: af37656a93c6bf45ff1d56659b42b714182f0690
-#    regexp: 6be9f674e36e5453f59c3fa3822ea7114bf16dc5
-#    xml-commons-apis: 5a0d310491904458f3461c5669cc8156a7a13117
-#    xml-commons-resolver: 5ae1f4660595242fd67b5c32df61e05dd70b726d
-#  p102:
-#    jsch: d391cf0db24b9968f93066d14c5bebc5f05fcc80
-#    log4j12: f6397a1d196dd82a34ce638867c9683e9d9ee5f7
-#    xerces-j2: dc24c8d65808b245dc12e6300f085ed24633fafe
-#  p103:
-#    xalan-j2: cdb7c0f6371470d46759710550fdaf3fc69e390e
-#  p104:
-#    bsf: 14b96dd1179bb30019848b8f204858fb2ab9186c
-#  p105:
-#    ant: b0cbfcc0325a27043acd6aea0bb95422f5d7e1c3
+  p101:
+    antlr: 8a4f331db4bc10d864f201cc37073e8bfb9d02d2
+    apache-commons-net: 2e4a34cf0e28a9bf4a2ba8dc8fe44dc10097460b
+    bcel: a4d5f6c5f5592db2a6c143cd18ba41d7c7686bed
+    jakarta-activation: bbf11c9f7bc85a21aaf1b7f113ed1ae5d0ad8600
+    jakarta-oro: f452c901a95d1bbd7c48bc28f117a1e518b3a54e
+    jdepend: 1ac47f234fa9eef01d650320f7a5ed2fded99208
+    jzlib: c1fd3b6be3b1c0e3d1c84485dc6e43cecc5b670d
+    regexp: 10a7139d74432df471f60ce30a2ad6d8b211f5d5
+    xml-commons-apis: 6db77b9900768ac5733fd0b097e97e82f549b6a4
+    xml-commons-resolver: 3a7a92e614b00a07c90a6f18b6f04c3087ed849a
+  p102:
+    jakarta-mail: fa910fcdb455c3e74eabe258f99477abb39d90d7
+    jsch: 7ceb75be7cff70914716feb6ced292df0d71d0d3
+    xerces-j2: ec6feae40c2bcc50cfb5cd446108aacf39411fad
+  p103:
+    xalan-j2: e47f0ebb7c2924e4ae2abedb0b5399f9267b7956
+  p104:
+    bsf: bf9984ad019e334419aed77eca2c94bcba7685a9
+  p105:
+    ant: 53c2b47935b3dd55681b817b9d1ebc2809547ac1
   p1:
     javapackages-tools: a22e49a954ef11bd82bef173e5e43926fca97ddf
   p3:
