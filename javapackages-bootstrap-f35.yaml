@@ -20,7 +20,7 @@ components:
   p1:
     javapackages-tools: b88118db6b10d38d5fe7b530226cb731f691003b
   p2:
-    javapackages-bootstrap: 31f81a4418047b2e5ea9483b590e405f0ce76233
+    javapackages-bootstrap: 037c4e26880615919a21f7275c0ff5f4baac587c
   p3:
     ant: 4623572b38694427e3287a883101ba6fcd78f2d7
     apache-commons-beanutils: 22cb45e8daa7ab3ba76f09aa0a5783c488e0586a
