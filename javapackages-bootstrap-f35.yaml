@@ -22,7 +22,7 @@ components:
   p2:
     javapackages-bootstrap: 037c4e26880615919a21f7275c0ff5f4baac587c
   p3:
-    ant: 4623572b38694427e3287a883101ba6fcd78f2d7
+    ant: 53cd5c1e0878eb050686e638f23a2511b8cc566c
     apache-commons-beanutils: 22cb45e8daa7ab3ba76f09aa0a5783c488e0586a
     apache-commons-cli: 7f585ef4fd20ab4390cb15ffb775842c213ab486
     apache-commons-codec: ce8a5e2d5f1b237eb3694016d22308ae1220b0ce

@@ -3,11 +3,11 @@ phases:
   - p2
   - p3
   - p4
-#  - p101
-#  - p102
-#  - p103
-#  - p104
-#  - p105
+  - p101
+  - p102
+  - p103
+  - p104
+  - p105
 dependencies:
   runtime:
     - platform-f35
@@ -24,27 +24,27 @@ filter:
 macros:
   _without_ivy: 1
 components:
-#  p101:
-#    antlr: 7aa674e79a7de5e28944e6153531f1674128b7d2
-#    apache-commons-net: 65b11a63e9ec526711a658fa81af61c99853e3e6
-#    bcel: 07a57a91c796bb81166ccea8a218a70163939e3c
-#    jakarta-oro: 59de9a9d3bd59b1a6ff140832b04e6d6dae07397
-#    javamail: 410c96ceb92c34a34989d88255097df92ef23527
-#    jdepend: ab16eb62ec2e9d4afd2e0ce8ee47c1e20e1297ef
-#    jzlib: af37656a93c6bf45ff1d56659b42b714182f0690
-#    regexp: 6be9f674e36e5453f59c3fa3822ea7114bf16dc5
-#    xml-commons-apis: 5a0d310491904458f3461c5669cc8156a7a13117
-#    xml-commons-resolver: 5ae1f4660595242fd67b5c32df61e05dd70b726d
-#  p102:
-#    jsch: d391cf0db24b9968f93066d14c5bebc5f05fcc80
-#    log4j12: f6397a1d196dd82a34ce638867c9683e9d9ee5f7
-#    xerces-j2: dc24c8d65808b245dc12e6300f085ed24633fafe
-#  p103:
-#    xalan-j2: cdb7c0f6371470d46759710550fdaf3fc69e390e
-#  p104:
-#    bsf: 14b96dd1179bb30019848b8f204858fb2ab9186c
-#  p105:
-#    ant: 4623572b38694427e3287a883101ba6fcd78f2d7
+  p101:
+    antlr: 9ab9d4201e650271b0de666c101fa9a76f795d89
+    apache-commons-net: 689bed8b59c00a517f7cb568b3d698db829f197a
+    bcel: fdbaa68096224657a664dfa1ed3402ea3b4a151b
+    jakarta-activation: f72c37c1d51ba8096f54dda42664c43b40649c41
+    jakarta-oro: 324332438e876011eb32e66c3a9f77f2da0d7ba7
+    jdepend: b7ed976902fd23473af0d2c345bfe042c3caa306
+    jzlib: eec2c8519dd90e7bd0b90d89d4f6e757fb420e7e
+    regexp: fa8259505028e940a03d72c5da8fc056ea9b60f7
+    xml-commons-apis: 89cfc672bd3aecd6b405b1300362d563355a3421
+    xml-commons-resolver: 880acd59a7f61f1d0ccf30a3a9e5b47f82ae4f51
+  p102:
+    jakarta-mail: 5ec9200d101e46f9e03283ad252f31373a793a49
+    jsch: 677d89fc59fc05b81e38319545767365213e08f7
+    xerces-j2: c746dbe36ed837da5de523960d6467b4cb370f68
+  p103:
+    xalan-j2: 95cc821076c01c7b4d06ab841abd76a5d7b2cc14
+  p104:
+    bsf: 54579118d25b19dfd0cac9767cb8949e26bff4b1
+  p105:
+    ant: 53cd5c1e0878eb050686e638f23a2511b8cc566c
   p1:
     javapackages-tools: b88118db6b10d38d5fe7b530226cb731f691003b
   p3:
