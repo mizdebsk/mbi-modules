@@ -50,7 +50,7 @@ components:
   p3:
     maven: 645f5f2511071966a4b4dcf120e55edd79e7cebb
   p4:
-    xmvn: 2a12a7da5adf534733fd777fe11369f230972338
+    xmvn: 0d4cb128e961594dd1ee27b68cb4dea9ff1eff4b
   p2:
     apache-commons-beanutils: 22cb45e8daa7ab3ba76f09aa0a5783c488e0586a
     apache-commons-cli: 7f585ef4fd20ab4390cb15ffb775842c213ab486
@@ -111,7 +111,7 @@ components:
     maven-plugin-bundle: dcd845e9a98cc05f55591404b511cc390bc11c2c
     maven-plugin-testing: 6a94ef12c5d38c5515bc24a555e369af5beda55b
     maven-plugin-tools: 30e2808d9b0f139f0a8edca51c78285ca7dae42d
-    maven-remote-resources-plugin: 7d1ed24bc267f91ad158905fbe6e11fcf55e8a8e
+    maven-remote-resources-plugin: c5bb47cef0935e45d50d01dc131bdd2c22bd8689
     maven-resolver: f3163ecffec960992a41c3aeb8a8433f9f37ac9e
     maven-resources-plugin: 857b30562f5f69bb4b4b0b991048d254987da6dd
     maven-shared-incremental: 9b376a5b7d46ce35426848fe14245a1958f81732

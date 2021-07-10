@@ -83,7 +83,7 @@ components:
     maven-plugin-bundle: dcd845e9a98cc05f55591404b511cc390bc11c2c
     maven-plugin-testing: 6a94ef12c5d38c5515bc24a555e369af5beda55b
     maven-plugin-tools: 30e2808d9b0f139f0a8edca51c78285ca7dae42d
-    maven-remote-resources-plugin: 7d1ed24bc267f91ad158905fbe6e11fcf55e8a8e
+    maven-remote-resources-plugin: c5bb47cef0935e45d50d01dc131bdd2c22bd8689
     maven-resolver: f3163ecffec960992a41c3aeb8a8433f9f37ac9e
     maven-resources-plugin: 857b30562f5f69bb4b4b0b991048d254987da6dd
     maven-shared-incremental: 9b376a5b7d46ce35426848fe14245a1958f81732
@@ -125,5 +125,5 @@ components:
     velocity: 4d40591ef8762aba9ba08e2df4c5aa2ca53171c6
     xbean: 751c090809560b932f5a3afa07c4620e60af3a4b
     xmlunit: 6ce92243cac7f9ffa310c470d2920787d7bb69ed
-    xmvn: 2a12a7da5adf534733fd777fe11369f230972338
+    xmvn: 0d4cb128e961594dd1ee27b68cb4dea9ff1eff4b
     xz-java: 330d7dfa86fa3619a357cd6dcbe45ad58ae50cc2
